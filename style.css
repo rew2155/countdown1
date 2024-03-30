@@ -1,0 +1,17 @@
+.Name{
+    font-size: 30px;
+    color:midnightblue;
+}
+
+.container{
+    text-align:center;
+}
+
+#list{
+    display:inline-block;
+    text-align:left;
+}
+
+.link{
+    margin-top: 20px;
+}
